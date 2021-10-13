@@ -2726,3 +2726,227 @@ java.io.FileNotFoundException: /Users/kurodashotaro/Desktop/Self_study/java_shoc
 2021-10-12 16:29:10,294 [Worker-3: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-10-12 16:29:10,295 [Worker-3: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/src/test/resources
 2021-10-12 16:31:22,164 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-10-12 23:06:49,540 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:06:49,541 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:06:49,549 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:06:49,609 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2021-10-12 23:06:49,612 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2021-10-12 23:06:49,618 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:06:49,618 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:06:49,619 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/Self_study/java/Spring/SpringBootSample/src/test/resources
+2021-10-12 23:07:17,575 [Worker-24: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:07:17,575 [Worker-24: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:07:17,579 [Worker-24: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:07:17,625 [Worker-24: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-12 23:07:17,625 [Worker-24: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2021-10-12 23:07:17,630 [Worker-24: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:07:17,630 [Worker-24: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:07:17,630 [Worker-24: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/Self_study/java/Spring/SpringBootSample/src/test/resources
+2021-10-12 23:10:47,150 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:10:47,156 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:10:47,157 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:10:47,172 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-12 23:10:47,172 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2021-10-12 23:10:47,175 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:10:47,175 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:10:47,175 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/Self_study/java/Spring/SpringBootSample/src/test/resources
+2021-10-12 23:11:07,326 [Worker-20: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:11:07,326 [Worker-20: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:11:07,327 [Worker-20: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:11:07,370 [Worker-20: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-12 23:11:07,370 [Worker-20: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2021-10-12 23:11:07,373 [Worker-20: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:11:07,373 [Worker-20: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:11:07,373 [Worker-20: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/Self_study/java/Spring/SpringBootSample/src/test/resources
+2021-10-12 23:14:39,290 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-10-12 23:16:12,299 [Worker-0: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:16:12,299 [Worker-0: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:16:12,308 [Worker-0: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:16:12,380 [Worker-0: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2021-10-12 23:16:12,387 [Worker-0: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2021-10-12 23:16:12,400 [Worker-0: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:16:12,400 [Worker-0: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:16:12,401 [Worker-0: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/src/test/resources
+2021-10-12 23:18:00,799 [Worker-10: ビルド] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:SpringBootSample6-2-1:0.0.1-SNAPSHOT @ /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/pom.xml.
+2021-10-12 23:18:02,089 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:18:02,090 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:18:02,090 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:18:02,118 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2021-10-12 23:18:02,149 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2021-10-12 23:18:02,152 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:18:02,152 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:18:02,152 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/src/test/resources
+2021-10-12 23:18:04,093 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:18:04,093 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:18:04,100 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:18:04,104 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2021-10-12 23:18:04,153 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2021-10-12 23:18:04,156 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:18:04,156 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:18:04,156 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/src/test/resources
+2021-10-12 23:20:49,848 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-10-12 23:25:18,722 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:25:18,723 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:25:18,729 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:25:18,786 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2021-10-12 23:25:18,790 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2021-10-12 23:25:18,794 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:25:18,794 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:25:18,794 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/src/test/resources
+2021-10-12 23:26:13,002 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:26:13,003 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:26:13,007 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:26:13,012 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2021-10-12 23:26:13,014 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2021-10-12 23:26:13,017 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:26:13,018 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:26:13,018 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/src/test/resources
+2021-10-12 23:26:59,664 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:26:59,666 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:26:59,670 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:26:59,676 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2021-10-12 23:26:59,678 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2021-10-12 23:26:59,682 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:26:59,683 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:26:59,683 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/src/test/resources
+2021-10-12 23:27:45,202 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:27:45,202 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:27:45,204 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:27:45,211 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2021-10-12 23:27:45,213 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2021-10-12 23:27:45,215 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:27:45,215 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:27:45,215 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/src/test/resources
+2021-10-12 23:28:35,500 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:28:35,501 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:28:35,503 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:28:35,509 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2021-10-12 23:28:35,511 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2021-10-12 23:28:35,512 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:28:35,512 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:28:35,512 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/src/test/resources
+2021-10-12 23:29:12,685 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:29:12,686 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:29:12,688 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:29:12,693 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2021-10-12 23:29:12,695 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2021-10-12 23:29:12,697 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:29:12,697 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:29:12,698 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/src/test/resources
+2021-10-12 23:29:45,584 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:29:45,584 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:29:45,586 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:29:45,591 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2021-10-12 23:29:45,594 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2021-10-12 23:29:45,596 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:29:45,596 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:29:45,596 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/src/test/resources
+2021-10-12 23:30:17,464 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:30:17,465 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:30:17,466 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:30:17,531 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2021-10-12 23:30:17,532 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2021-10-12 23:30:17,537 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:30:17,538 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:30:17,538 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/src/test/resources
+2021-10-12 23:31:06,581 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:31:06,582 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:31:06,584 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:31:06,665 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2021-10-12 23:31:06,667 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2021-10-12 23:31:06,670 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:31:06,670 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:31:06,670 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/src/test/resources
+2021-10-12 23:32:40,983 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:32:40,984 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:32:40,987 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-12 23:32:40,987 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:32:40,993 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:32:40,994 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:32:40,994 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/src/test/resources
+2021-10-12 23:33:03,257 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:33:03,259 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:33:03,259 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-12 23:33:03,259 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:33:03,262 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:33:03,262 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:33:03,262 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/src/test/resources
+2021-10-12 23:33:11,380 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:33:11,380 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:33:11,381 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-12 23:33:11,381 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:33:11,386 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:33:11,386 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:33:11,386 [Worker-10: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/src/test/resources
+2021-10-12 23:33:43,454 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:33:43,456 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:33:43,456 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-12 23:33:43,457 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:33:43,460 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:33:43,460 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:33:43,460 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/src/test/resources
+2021-10-12 23:35:51,790 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:35:51,791 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:35:51,791 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-12 23:35:51,791 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:35:51,794 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:35:51,795 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:35:51,795 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/src/test/resources
+2021-10-12 23:36:29,779 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:36:29,780 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:36:29,781 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-12 23:36:29,782 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:36:29,786 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:36:29,786 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:36:29,786 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/src/test/resources
+2021-10-12 23:36:50,161 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:36:50,161 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:36:50,161 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-12 23:36:50,162 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:36:50,169 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:36:50,169 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:36:50,169 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/src/test/resources
+2021-10-12 23:37:32,772 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:37:32,774 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:37:32,775 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-12 23:37:32,775 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:37:32,779 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:37:32,779 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:37:32,780 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/src/test/resources
+2021-10-12 23:38:15,283 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:38:15,283 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:38:15,283 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-12 23:38:15,284 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:38:15,287 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:38:15,287 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:38:15,288 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/src/test/resources
+2021-10-12 23:39:45,710 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:39:45,711 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:39:45,711 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:39:45,731 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2021-10-12 23:39:45,737 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2021-10-12 23:39:45,741 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:39:45,742 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:39:45,742 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/Self_study/java/Spring/SpringBootSample/src/test/resources
+2021-10-12 23:40:24,651 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:40:24,652 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:40:24,652 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-12 23:40:24,652 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:40:24,656 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:40:24,656 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:40:24,656 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/src/test/resources
+2021-10-12 23:41:24,536 [Worker-18: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:41:24,536 [Worker-18: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:41:24,536 [Worker-18: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-12 23:41:24,537 [Worker-18: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-12 23:41:24,540 [Worker-18: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:41:24,540 [Worker-18: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:41:24,540 [Worker-18: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/src/test/resources
+2021-10-12 23:57:53,626 [Worker-20: ビルド] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:SpringBootSample6-2-1:0.0.1-SNAPSHOT @ /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/pom.xml.
+2021-10-12 23:57:54,228 [Worker-20: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:57:54,228 [Worker-20: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:57:54,228 [Worker-20: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-12 23:57:54,228 [Worker-20: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-12 23:57:54,231 [Worker-20: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 23:57:54,232 [Worker-20: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-12 23:57:54,232 [Worker-20: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/6-2-1.バインド/SpringBootSample6-2-1/src/test/resources

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Java プロジェクト名 &apos;SpringBootSample6-2-1&apos; を &apos;SpringBootSample1.1&apos; に変更&#x0A;- オリジナル要素: &apos;SpringBootSample6-2-1&apos;&#x0A;- 名前変更済み要素: &apos;SpringBootSample6-2-1&apos;&#x0A;- リファクタリングされた要素の参照を更新" description="Java プロジェクト &apos;SpringBootSample6-2-1&apos; の名前変更" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=SpringBootSample6-2-1" name="SpringBootSample1.1" references="true" stamp="1634048278434" version="1.0"/>
+</session>
