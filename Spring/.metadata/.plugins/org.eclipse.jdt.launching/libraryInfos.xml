@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
+    <libraryInfo home="/Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home" version="15.0.1"/>
     <libraryInfo home="/Applications/Eclipse_2020-12.app/Contents/java/8/Home" version="1.8.0_202">
         <bootpath>
             <entry path="/Applications/Eclipse_2020-12.app/Contents/java/8/Home/jre/lib/resources.jar"/>
@@ -19,6 +20,7 @@
         </endorsedDirs>
     </libraryInfo>
     <libraryInfo home="/Applications/Eclipse_2020-12.app/Contents/java/15/Home" version="15.0.1"/>
+    <libraryInfo home="/Applications/Eclipse_2021-09.app/Contents/java/17/Home" version="17"/>
     <libraryInfo home="/Applications/Eclipse_2020-12.app/Contents/java/7/Home" version="1.7.0_80">
         <bootpath>
             <entry path="/Applications/Eclipse_2020-12.app/Contents/java/7/Home/jre/lib/resources.jar"/>
@@ -57,4 +59,5 @@
             <entry path="/Applications/Eclipse_2020-12.app/Contents/java/6/Home/lib/endorsed"/>
         </endorsedDirs>
     </libraryInfo>
+    <libraryInfo home="/Library/Java/JavaVirtualMachines/jdk-16.0.2.jdk/Contents/Home" version="16.0.2"/>
 </libraryInfos>

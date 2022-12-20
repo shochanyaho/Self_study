@@ -6,8 +6,14 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="nz.net.ultraq.thymeleaf"/>
+		<item key="selection" value=""/>
 		<list key="findhistory">
+			<item value="department"/>
+			<item value="Department"/>
+			<item value="example"/>
+			<item value="th:"/>
+			<item value="user/signup"/>
+			<item value=":testdb"/>
 			<item value="nz.net.ultraq.thymeleaf"/>
 			<item value="line"/>
 		</list>
